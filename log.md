@@ -16,3 +16,12 @@
 **Thoughts:**  Nothing special
 
 **Link to work:** https://github.com/samueltan3972/100-days-of-code
+
+
+### Day 2: January 4, 2018 
+
+**Today's Progress:** Complete basic javascript and object oriented and functional programming in freecodecamp
+
+**Thoughts:**  The challenge start getting interesting, because next one is the algorithm scripting
+
+**Link to work:** https://github.com/samueltan3972/100-days-of-code
