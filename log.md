@@ -25,3 +25,12 @@
 **Thoughts:**  The challenge start getting interesting, because next one is the algorithm scripting
 
 **Link to work:** https://github.com/samueltan3972/100-days-of-code
+
+
+### Day 3: January 5, 2018 
+
+**Today's Progress:** Complete 4 basic algorithm scripting in freecodecamp
+
+**Thoughts:**  Nothing special
+
+**Link to work:** 
