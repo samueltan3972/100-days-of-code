@@ -34,3 +34,12 @@
 **Thoughts:**  Nothing special
 
 **Link to work:** 
+
+
+### Day 4: January 6, 2018 
+
+**Today's Progress:** Complete 3 basic algorithm scripting in freecodecamp
+
+**Thoughts:**  Start feeling challenge for the algorithm scripting
+
+**Link to work:**
