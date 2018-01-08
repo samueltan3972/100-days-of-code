@@ -43,3 +43,20 @@
 **Thoughts:**  Start feeling challenge for the algorithm scripting
 
 **Link to work:**
+
+### Day 5: January 7, 2018 
+
+**Today's Progress:** Complete all basic algorithm scripting in freecodecamp
+
+**Thoughts:**  Yes, finally done all the basic algorithm scripting
+
+**Link to work:**
+
+
+### Day 6: January 8, 2018 
+
+**Today's Progress:** Complete JSON API and Ajax in freecodecamp and start working on personal portfolio
+
+**Thoughts:**  The planning of the website is really a headache for me
+
+**Link to work:**
