@@ -60,3 +60,30 @@
 **Thoughts:**  The planning of the website is really a headache for me
 
 **Link to work:**
+
+
+### Day 7: January 9, 2018 
+
+**Today's Progress:** Design the portfoio website
+
+**Thoughts:**  
+
+**Link to work:**
+
+
+### Day 8: January 10, 2018 
+
+**Today's Progress:** Done with most of the layout of the portfolio website
+
+**Thoughts:**  
+
+**Link to work:**
+
+
+### Day 9: January 11, 2018 
+
+**Today's Progress:** Done with all of the layout of the portfolio website, just left some small issue
+
+**Thoughts:**  
+
+**Link to work:**
