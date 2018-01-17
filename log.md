@@ -87,3 +87,51 @@
 **Thoughts:**  
 
 **Link to work:**
+
+
+### Day 10: January 12, 2018 
+
+**Today's Progress:** Complete the first version of the portfolio website
+
+**Thoughts:**  the last 10% is always the hardest, new bug keep appear in the last 10%
+
+**Link to work:** https://codepen.io/samueltan3972/full/ppaPvb/
+
+
+January 13, 2018: Take a break
+
+
+### Day 11: January 14, 2018 
+
+**Today's Progress:** continue for the freecodecamp challenge for random quote machine.
+
+**Thoughts:**  
+
+**Link to work:** 
+
+
+### Day 12: January 15, 2018 
+
+**Today's Progress:** continue develop the functionality of the random quote machine
+
+**Thoughts:**  
+
+**Link to work:** 
+
+
+### Day 13: January 16, 2018 
+
+**Today's Progress:** Continue with the design part of random quote generator, everything works well on laptop, but just ruin when coming to mobile view
+
+**Thoughts:**  
+
+**Link to work:** 
+
+
+### Day 14: January 17, 2018 
+
+**Today's Progress:** Complete random quote generator !??
+
+**Thoughts:**   I just don't know how to fix the button in mobile view, so... declare the bug as feature
+
+**Link to work:**  https://codepen.io/samueltan3972/full/bajEYr/
